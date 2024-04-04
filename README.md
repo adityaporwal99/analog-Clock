@@ -14,6 +14,7 @@ Analog clocks have been created for two different time zones.
 **HTML**, **CSS**(for markup and styling) and **JavaScript**(for logic) have been used in this project. Concepts like **DOM Manipulation**, **CSS Flexbox** and **Media Queries** have been used throughout the project.
 
 ## Deployment
+To view the deployment click on the link : https://adityaporwal99.github.io/analog-Clock/
 
 ## Preview
 https://github.com/adityaporwal99/analog-Clock/assets/114603235/7d26cc98-d34f-4d2b-a471-6644379a0f53
